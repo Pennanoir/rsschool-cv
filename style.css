@@ -1,4 +1,8 @@
 body {
+    display: -webkit-flex;
+    display: flex;
+    margin: 0;
+    flex-direction: column;
     background: rgb(22, 10, 41);
 }
 
@@ -82,16 +86,12 @@ li {
 }
 
 footer {
-    background: rgb(56, 56, 112);
     display: -webkit-inline-flex;
     display: flex;
     flex: 0 0 auto;
     justify-content: space-around;
     align-items: center;
-    position: absolute;
-    top: 90%;
-    left: 0;
-    right: 0;
+    background: rgb(56, 56, 112);
 }
 
 .year {
