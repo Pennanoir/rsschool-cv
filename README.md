@@ -1,1 +1,1 @@
-# rsschool-cv
+https://pennanoir.github.io/rsschool-cv/cv
