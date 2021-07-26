@@ -63,7 +63,7 @@ td.rightcol {
 }
 
 li {
-    line-height: 40px;
+    line-height: 36px;
 }
 
 .name {
@@ -72,7 +72,7 @@ li {
 }
 
 .code1 {
-    line-height: 70px;
+    line-height: 65px;
     background: rgb(221, 221, 221);
     text-align: center;
 }
@@ -95,7 +95,6 @@ footer {
 }
 
 .year {
-    font-weight: bold;
     color: white;
 }
 
