@@ -1,0 +1,104 @@
+body {
+    background: rgb(22, 10, 41);
+}
+
+main {
+    display: -webkit-flex;
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    width: 70%;
+    height: 100%;
+}
+
+TD {
+    vertical-align: top;
+    padding: 5px;
+}
+
+td.leftcol {
+    width: 25%;
+    background: rgb(81, 81, 126);
+}
+
+td.rightcol {
+    background: rgb(255, 255, 255);
+}
+
+.ava {
+    font-size: 10px;
+    text-align: center;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    color: rgb(255, 255, 255);
+    float: left;
+}
+
+.radius {
+    width: 100px;
+    height: 100px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    border-color: rgb(57, 57, 129);
+    border-style: outset;
+    border-width: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.info {
+    font-size: 20px;
+    text-align: left;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    color: rgb(0, 0, 0);
+    padding: 30px;
+    line-height: 20px;
+}
+
+li {
+    line-height: 40px;
+}
+
+.name {
+    font-size: 26px;
+    font-variant: small-caps;
+}
+
+.code1 {
+    line-height: 70px;
+    background: rgb(221, 221, 221);
+    text-align: center;
+}
+
+.contacts {
+    text-decoration: underline;
+}
+
+footer {
+    background: rgb(56, 56, 112);
+    display: -webkit-inline-flex;
+    display: flex;
+    flex: 0 0 auto;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute;
+    top: 90%;
+    left: 0;
+    right: 0;
+}
+
+.year {
+    font-weight: bold;
+    color: white;
+}
+
+a {
+    color: white;
+}
