@@ -1,4 +1,4 @@
-1. __Pososhina__
+1. __Darina Pososhina__
 2. Email daripososhina@gmail.com 
 Tel. +7 999 206 25 20 (WhatsApp, Telegram)
 3. I'm collecting work experience in various fields. From the common features in them, I like to learn something new, train people and work in a team. I have an art education. I love creativity and new challenges, because it involves inspiration in me.
